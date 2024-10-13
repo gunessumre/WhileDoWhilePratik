@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/bin/Debug/net9.0/WhileDowhilePratik
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/bin/Debug/net9.0/WhileDowhilePratik.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/bin/Debug/net9.0/WhileDowhilePratik.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/bin/Debug/net9.0/WhileDowhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/bin/Debug/net9.0/WhileDowhilePratik.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/refint/WhileDowhilePratik.dll
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/WhileDowhilePratik.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/WhileDowhilePratik/WhileDowhilePratik/obj/Debug/net9.0/ref/WhileDowhilePratik.dll
